@@ -1,2 +1,3 @@
 # Line_follower_bot
-It follows the black path ...
+A robot using Arduino UNO which runs on the black path ..
+
